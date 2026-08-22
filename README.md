@@ -1,4 +1,4 @@
-# Infrastructure Multi-Service Sécurisée
+# Infrastructure Multi-Service Sécurisee
 Système d'infrastructure Linux complet avec 7 services sécurisés et 4 scripts Python d'automatisation
 ##  Objectifs
 Infrastructure multi-service fonctionnelle
